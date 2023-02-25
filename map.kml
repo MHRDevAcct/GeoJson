@@ -1,2575 +1,3433 @@
 <kml xmlns="http://www.opengis.net/kml/2.2"><Document>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Chena River Research Site</value></Data></ExtendedData>
   <Point><coordinates>-73.8827146,40.5813869</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Yukon Weapons Range</value></Data></ExtendedData>
   <Point><coordinates>-81.6213328,30.4052939</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Eielson AFB</value></Data></ExtendedData>
   <Point><coordinates>-76.2189592,39.3900597</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Yukon Command Ts</value></Data></ExtendedData>
   <Point><coordinates>-76.9604124,39.0329415</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Birch Lake Recreation Annex</value></Data></ExtendedData>
   <Point><coordinates>-76.1330525,36.6943211</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Clear Air Force Sta</value></Data></ExtendedData>
   <Point><coordinates>-98.0432713,27.895875</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Greely</value></Data></ExtendedData>
   <Point><coordinates>-157.9117716,21.3609483</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Greely</value></Data></ExtendedData>
   <Point><coordinates>-78.8472505,39.548342</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Greely</value></Data></ExtendedData>
   <Point><coordinates>-99.2709317,34.6689268</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Greely</value></Data></ExtendedData>
   <Point><coordinates>-117.1545331,32.6607309</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Greely</value></Data></ExtendedData>
   <Point><coordinates>144.9088363,13.5893448</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Donnelly Training Area</value></Data></ExtendedData>
   <Point><coordinates>144.8657824,13.5080783</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Haarp Research Sta</value></Data></ExtendedData>
   <Point><coordinates>144.9154363,13.5370109</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Alcantra Armory Complx</value></Data></ExtendedData>
   <Point><coordinates>144.8126286,13.4562849</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Richardson</value></Data></ExtendedData>
   <Point><coordinates>144.8623595,13.5867798</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Elmendorf AFB</value></Data></ExtendedData>
   <Point><coordinates>144.8111349,13.5178542</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>King Salmon Arprt</value></Data></ExtendedData>
   <Point><coordinates>-76.8744889,38.8051554</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>King Salmon Arprt</value></Data></ExtendedData>
   <Point><coordinates>-85.9691502,33.6530773</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>King Salmon Arprt</value></Data></ExtendedData>
   <Point><coordinates>-81.3438335,27.650204</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>King Salmon Arprt</value></Data></ExtendedData>
   <Point><coordinates>-77.0792894,38.8677546</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>King Salmon Arprt</value></Data></ExtendedData>
   <Point><coordinates>-91.1407866,30.3578659</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Kodiak</value></Data></ExtendedData>
   <Point><coordinates>-88.6795859,41.2869437</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Air Station Sitka</value></Data></ExtendedData>
   <Point><coordinates>-86.079538,35.3647459</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Ketchikan</value></Data></ExtendedData>
   <Point><coordinates>-74.588595,39.4584903</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Eareckson Air Force Sta</value></Data></ExtendedData>
   <Point><coordinates>-74.5794425,39.4452531</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cavalier Air Force Sta</value></Data></ExtendedData>
   <Point><coordinates>-81.2770766,27.6469254</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Minot AFB</value></Data></ExtendedData>
   <Point><coordinates>-68.8100347,44.8084515</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Whidbey Island</value></Data></ExtendedData>
   <Point><coordinates>-68.8411262,44.809857</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Whidbey Island Seaplane Base</value></Data></ExtendedData>
   <Point><coordinates>-68.8257786,44.8169345</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Jim Creek Naval Rec Area</value></Data></ExtendedData>
   <Point><coordinates>-93.5997358,32.5003805</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Outlying Field Coupeville</value></Data></ExtendedData>
   <Point><coordinates>-72.7179848,42.1693831</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Air Station Port Angeles</value></Data></ExtendedData>
   <Point><coordinates>-114.082822,32.4985369</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marysville</value></Data></ExtendedData>
   <Point><coordinates>-113.0572265,32.6404612</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Magazine Indian Island</value></Data></ExtendedData>
   <Point><coordinates>-116.5615792,47.9773241</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Station Everett</value></Data></ExtendedData>
   <Point><coordinates>-121.3955028,39.1210805</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Bayview Idaho</value></Data></ExtendedData>
   <Point><coordinates>-157.715622,21.3627312</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Grand Forks AFB</value></Data></ExtendedData>
   <Point><coordinates>-146.6470761,64.3177675</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Defense Fuel Support Pt</value></Data></ExtendedData>
   <Point><coordinates>-86.7540093,33.5703892</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Grafton</value></Data></ExtendedData>
   <Point><coordinates>-77.0864293,38.4302508</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Seven Mile</value></Data></ExtendedData>
   <Point><coordinates>-77.0924937,38.4217253</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Base Kitsap-Bremerton</value></Data></ExtendedData>
   <Point><coordinates>-84.2174306,37.699034</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Undersea Warfare Center Keyport</value></Data></ExtendedData>
   <Point><coordinates>-116.2260524,43.5514695</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Fairchild AFB</value></Data></ExtendedData>
   <Point><coordinates>-116.2221365,43.5571187</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Wesley Harris</value></Data></ExtendedData>
   <Point><coordinates>-105.9005545,32.7116073</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Seattle</value></Data></ExtendedData>
   <Point><coordinates>-105.9481393,32.7866135</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Manchester Fuel Dep</value></Data></ExtendedData>
   <Point><coordinates>-77.016712,38.8401054</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Base Kitsap-Bremerton</value></Data></ExtendedData>
   <Point><coordinates>-72.7012374,41.93507</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Bremerton</value></Data></ExtendedData>
   <Point><coordinates>-81.6261491,41.5424361</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Malmstrom AFB</value></Data></ExtendedData>
   <Point><coordinates>-98.4398496,29.3429746</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Malmstrom AFB</value></Data></ExtendedData>
   <Point><coordinates>-104.7578145,39.7067166</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Great Falls Iap</value></Data></ExtendedData>
   <Point><coordinates>-73.1479217,44.4744384</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Murray</value></Data></ExtendedData>
   <Point><coordinates>-103.3175654,34.3865305</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Joint Base Lewis-Mcchord</value></Data></ExtendedData>
   <Point><coordinates>-103.3281567,34.4090736</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Hector Iap</value></Data></ExtendedData>
   <Point><coordinates>-98.2183274,29.8831991</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Grays Harbor</value></Data></ExtendedData>
   <Point><coordinates>-98.218671,29.888198</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Duluth Iap</value></Data></ExtendedData>
   <Point><coordinates>-80.5712638,28.482446</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Duluth Armory</value></Data></ExtendedData>
   <Point><coordinates>-70.5381245,41.7524976</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Bismarck Rjb Complx</value></Data></ExtendedData>
   <Point><coordinates>-85.3471396,29.6757913</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Yakima Training Ctr</value></Data></ExtendedData>
   <Point><coordinates>-89.6675535,39.8479724</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Maneuver Training Area Fort William Henry Harrison</value></Data></ExtendedData>
   <Point><coordinates>-77.1691477,40.207592</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Helena Aviation</value></Data></ExtendedData>
   <Point><coordinates>-97.9032746,48.7245401</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Marquette</value></Data></ExtendedData>
   <Point><coordinates>-119.1110958,34.1387965</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Sault Sainte Marie</value></Data></ExtendedData>
   <Point><coordinates>-80.0505483,32.8993892</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Sault Saint Marie (Housing Area)</value></Data></ExtendedData>
   <Point><coordinates>-79.9833913,32.9127331</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Ripley</value></Data></ExtendedData>
   <Point><coordinates>-80.9298239,35.2163708</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Ripley</value></Data></ExtendedData>
   <Point><coordinates>-76.6194143,37.2853686</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Ripley</value></Data></ExtendedData>
   <Point><coordinates>-146.9698572,64.8283848</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Ripley</value></Data></ExtendedData>
   <Point><coordinates>-104.8451016,38.7404781</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Ripley</value></Data></ExtendedData>
   <Point><coordinates>-104.8213058,41.162019</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Cape Disappointment</value></Data></ExtendedData>
   <Point><coordinates>-104.8134902,41.1607046</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Limestone Hills Training Area</value></Data></ExtendedData>
   <Point><coordinates>-115.3092218,33.3115548</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Ripley</value></Data></ExtendedData>
   <Point><coordinates>-149.1909633,64.2884638</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Ripley</value></Data></ExtendedData>
   <Point><coordinates>-158.051959,21.3285143</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Ripley</value></Data></ExtendedData>
   <Point><coordinates>-67.1249266,18.4954277</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Maneuver Traing Area Camp Rilea</value></Data></ExtendedData>
   <Point><coordinates>-82.6266173,27.7615551</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Umatilla Chemical Dep</value></Data></ExtendedData>
   <Point><coordinates>-124.1133235,40.9760604</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Bombing Range Boardman</value></Data></ExtendedData>
   <Point><coordinates>-123.4108049,48.1406182</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Portland Air Guard Sta</value></Data></ExtendedData>
   <Point><coordinates>-135.3620486,57.0530872</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng St Cloud Armory</value></Data></ExtendedData>
   <Point><coordinates>-88.2433983,30.6975444</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Withycombe</value></Data></ExtendedData>
   <Point><coordinates>-70.2470728,43.6448354</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Charlevoix</value></Data></ExtendedData>
   <Point><coordinates>-122.8000101,38.068597</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Twin Cities Army Ammunition Plnt</value></Data></ExtendedData>
   <Point><coordinates>-75.5222598,35.2574672</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nas Portsmouth Redington Township</value></Data></ExtendedData>
   <Point><coordinates>-80.1451133,25.7711577</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nas Portsmouth Redington Township</value></Data></ExtendedData>
   <Point><coordinates>-74.423669,39.3790785</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng McNary Field Salem Aasf</value></Data></ExtendedData>
   <Point><coordinates>-76.5683503,39.1994143</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Minneapolis-St Paul International Airport Air Reserve Sta</value></Data></ExtendedData>
   <Point><coordinates>-69.641501,43.8433954</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Bangor International Arprt</value></Data></ExtendedData>
   <Point><coordinates>-71.0521169,42.3681829</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Bangor</value></Data></ExtendedData>
   <Point><coordinates>-80.6209282,28.4155753</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Bangor</value></Data></ExtendedData>
   <Point><coordinates>-124.0497991,46.2786529</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Sturgeon Bay</value></Data></ExtendedData>
   <Point><coordinates>-74.8619718,38.9507469</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Grayling</value></Data></ExtendedData>
   <Point><coordinates>-79.9436584,32.7742113</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Rosemount Armory</value></Data></ExtendedData>
   <Point><coordinates>-85.2459498,45.3162904</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Grayling</value></Data></ExtendedData>
   <Point><coordinates>-124.26818,42.0463787</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Camp Adair Corvallis</value></Data></ExtendedData>
   <Point><coordinates>-124.3409678,43.346603</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Grayling</value></Data></ExtendedData>
   <Point><coordinates>-75.8575678,37.9749537</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Brunswick Naval Computer and Telecommunications Cutler V L F Area</value></Data></ExtendedData>
   <Point><coordinates>-73.3958948,40.9543161</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Grayling</value></Data></ExtendedData>
   <Point><coordinates>-76.1755183,36.2612396</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Frankfort</value></Data></ExtendedData>
   <Point><coordinates>-73.2588055,40.6248021</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Yaquina Bay</value></Data></ExtendedData>
   <Point><coordinates>-76.6813851,34.6974192</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Grayling</value></Data></ExtendedData>
   <Point><coordinates>-81.9539987,26.4589345</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Grayling</value></Data></ExtendedData>
   <Point><coordinates>-86.2444155,44.630097</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Grayling</value></Data></ExtendedData>
   <Point><coordinates>-94.7678628,29.334077</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Jonesport</value></Data></ExtendedData>
   <Point><coordinates>-86.2385121,43.0603609</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Johnson</value></Data></ExtendedData>
   <Point><coordinates>-89.9564111,29.2654296</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Burlington International Arprt</value></Data></ExtendedData>
   <Point><coordinates>-90.8269103,30.7270448</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Training Site Ethan Allen Range</value></Data></ExtendedData>
   <Point><coordinates>-124.1047345,46.9039593</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Bog Brook Riley Ts</value></Data></ExtendedData>
   <Point><coordinates>-75.705028,35.2081786</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Southwest Harbor</value></Data></ExtendedData>
   <Point><coordinates>-86.2014157,42.774481</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Tawas</value></Data></ExtendedData>
   <Point><coordinates>-157.8750491,21.3078163</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Manistee</value></Data></ExtendedData>
   <Point><coordinates>-124.2239238,40.7666421</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Biak Training Ctr</value></Data></ExtendedData>
   <Point><coordinates>-75.0681776,38.6101842</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ellsworth AFB</value></Data></ExtendedData>
   <Point><coordinates>-73.5564394,40.5905867</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Drum</value></Data></ExtendedData>
   <Point><coordinates>-67.6162753,44.5278795</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Auburn Ts</value></Data></ExtendedData>
   <Point><coordinates>-80.114898,27.035347</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng West Cp</value></Data></ExtendedData>
   <Point><coordinates>-87.8165427,42.5898468</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Lane County Md/fms</value></Data></ExtendedData>
   <Point><coordinates>-131.6124064,55.3383251</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Bend Cotef</value></Data></ExtendedData>
   <Point><coordinates>-152.5403518,57.7446751</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Rochester Nga &#x26; Oms 2</value></Data></ExtendedData>
   <Point><coordinates>-80.0520779,26.7889668</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Ludington</value></Data></ExtendedData>
   <Point><coordinates>-82.1770143,41.4708619</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Volk Field Air National Guard Base</value></Data></ExtendedData>
   <Point><coordinates>-118.2677894,33.7249421</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Brunswick</value></Data></ExtendedData>
   <Point><coordinates>-86.4597024,43.9529186</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Brunswick</value></Data></ExtendedData>
   <Point><coordinates>-74.0378191,40.103065</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Brunswick</value></Data></ExtendedData>
   <Point><coordinates>-86.3416373,44.2503461</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Boothbay Harbor</value></Data></ExtendedData>
   <Point><coordinates>-82.731059,41.5434874</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Mitchell Ts</value></Data></ExtendedData>
   <Point><coordinates>-87.3772835,46.5466341</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Umpqua River</value></Data></ExtendedData>
   <Point><coordinates>-87.8884791,43.0021713</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>National Guard Hollis Plains Training Site</value></Data></ExtendedData>
   <Point><coordinates>-71.9337256,41.0695856</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Base South Portland</value></Data></ExtendedData>
   <Point><coordinates>-121.8969006,36.6089972</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Joe Foss Fld</value></Data></ExtendedData>
   <Point><coordinates>-72.7479439,40.7896971</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Sioux Falls Utes</value></Data></ExtendedData>
   <Point><coordinates>-72.9029716,41.272365</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Joe Foss Fld</value></Data></ExtendedData>
   <Point><coordinates>-72.0937733,41.3456711</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Joe Foss Fld</value></Data></ExtendedData>
   <Point><coordinates>-90.0273232,29.9661909</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Boise Air Terminal (Air Natinal Guard)</value></Data></ExtendedData>
   <Point><coordinates>-122.249642,37.7823333</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Boise Air Terminal (Air Natinal Guard)</value></Data></ExtendedData>
   <Point><coordinates>-75.5500567,35.7964218</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Oswego</value></Data></ExtendedData>
   <Point><coordinates>-76.5158785,43.4629126</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Coos Bay</value></Data></ExtendedData>
   <Point><coordinates>-85.7554366,30.1699477</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng New Hampshire Ts</value></Data></ExtendedData>
   <Point><coordinates>-80.915225,29.0647321</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Youngstown Ts</value></Data></ExtendedData>
   <Point><coordinates>-82.4231836,43.0053733</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Orchard Range Ts Boise</value></Data></ExtendedData>
   <Point><coordinates>-76.3591879,36.8826819</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Rome Laboratory</value></Data></ExtendedData>
   <Point><coordinates>-97.8331769,26.5319834</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Verona Test Annex</value></Data></ExtendedData>
   <Point><coordinates>-121.6940432,38.1456332</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Truax Field Air National Guard Base</value></Data></ExtendedData>
   <Point><coordinates>-122.3628758,37.8102521</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Niagara Falls International Airport Air Reserve Sta</value></Data></ExtendedData>
   <Point><coordinates>-66.1171773,18.4607782</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Hancock Fld</value></Data></ExtendedData>
   <Point><coordinates>-74.0102971,40.4711285</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>McRc Syracuse</value></Data></ExtendedData>
   <Point><coordinates>-84.4138696,46.4863974</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Portsmouth Naval Shipyard (Navy Housing)</value></Data></ExtendedData>
   <Point><coordinates>-84.338834,46.4999278</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Pease Air National Guard Base</value></Data></ExtendedData>
   <Point><coordinates>-122.3401828,47.5892506</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Westminster Ts</value></Data></ExtendedData>
   <Point><coordinates>-72.5034567,40.849219</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Portsmouth Naval Shipyard</value></Data></ExtendedData>
   <Point><coordinates>-68.3123494,44.2750237</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Support Unit Saratoga Springs</value></Data></ExtendedData>
   <Point><coordinates>-76.1307242,39.3369666</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Grand Haven</value></Data></ExtendedData>
   <Point><coordinates>-87.3134575,44.7949209</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Mountain Home AFB</value></Data></ExtendedData>
   <Point><coordinates>-83.4492809,44.2541329</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Port Huron</value></Data></ExtendedData>
   <Point><coordinates>-124.1773562,43.6818237</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Milwaukee</value></Data></ExtendedData>
   <Point><coordinates>-124.0570664,44.6257973</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>General Mitchell International Airport Airguard Sta</value></Data></ExtendedData>
   <Point><coordinates>-74.8833295,38.9452219</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>New Boston Air Sta</value></Data></ExtendedData>
   <Point><coordinates>-122.7896975,38.2498679</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Holland</value></Data></ExtendedData>
   <Point><coordinates>-88.4510932,33.64131</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Lansing Headquarters Complx</value></Data></ExtendedData>
   <Point><coordinates>-96.3361749,41.0791905</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Saylor Creek Range</value></Data></ExtendedData>
   <Point><coordinates>-86.0469774,39.2948048</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Watervliet Arsenal</value></Data></ExtendedData>
   <Point><coordinates>-92.2955232,31.4393238</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Selfridge Army Garrison</value></Data></ExtendedData>
   <Point><coordinates>-98.5608775,29.6890508</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Selfridge Air National Guard Base</value></Data></ExtendedData>
   <Point><coordinates>-94.2915885,37.8202552</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Kenosha</value></Data></ExtendedData>
   <Point><coordinates>-79.6205593,39.4353616</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Mta Camp Curtis Guil</value></Data></ExtendedData>
   <Point><coordinates>-79.704517,39.4216804</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Detroit Arsenal</value></Data></ExtendedData>
   <Point><coordinates>-79.6695344,39.4501771</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Navpro Pittsfield</value></Data></ExtendedData>
   <Point><coordinates>-79.6838575,39.3792178</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Hanscom AFB</value></Data></ExtendedData>
   <Point><coordinates>-79.6540988,39.3976617</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Sioux Gateway Apt/col Bud Day Field (Ang)</value></Data></ExtendedData>
   <Point><coordinates>-79.7034243,39.4049368</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Guernsey</value></Data></ExtendedData>
   <Point><coordinates>-71.499157,41.6155367</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Boston</value></Data></ExtendedData>
   <Point><coordinates>-71.4940772,41.6093068</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Guernsey</value></Data></ExtendedData>
   <Point><coordinates>-98.7158707,47.7711747</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Guernsey</value></Data></ExtendedData>
   <Point><coordinates>-84.7568289,44.592345</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Guernsey</value></Data></ExtendedData>
   <Point><coordinates>-84.8702494,44.6127719</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Guernsey</value></Data></ExtendedData>
   <Point><coordinates>-84.6616579,44.7223399</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Station Great Lakes</value></Data></ExtendedData>
   <Point><coordinates>-84.6896408,44.7129185</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Guernsey</value></Data></ExtendedData>
   <Point><coordinates>-84.89814,44.6462439</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Great Lakes Camp John Paul Jones</value></Data></ExtendedData>
   <Point><coordinates>-84.7669532,44.5887451</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Custer Training Center</value></Data></ExtendedData>
   <Point><coordinates>-84.5604587,44.7772018</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Guernsey</value></Data></ExtendedData>
   <Point><coordinates>-95.1675404,35.7009381</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Soldier Systems Center Natick</value></Data></ExtendedData>
   <Point><coordinates>-104.8021267,42.2130578</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Guernsey</value></Data></ExtendedData>
   <Point><coordinates>-104.7301638,42.2752484</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Guernsey</value></Data></ExtendedData>
   <Point><coordinates>-104.7161791,42.2678444</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Guernsey</value></Data></ExtendedData>
   <Point><coordinates>-104.7155391,42.2757209</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Guernsey</value></Data></ExtendedData>
   <Point><coordinates>-104.8328962,42.3011748</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Guernsey</value></Data></ExtendedData>
   <Point><coordinates>-104.7319942,42.2600927</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Westover Air Reserve Base</value></Data></ExtendedData>
   <Point><coordinates>-104.945709,42.3345473</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Barnes Municipal Airport (Air Force National Guard)</value></Data></ExtendedData>
   <Point><coordinates>-104.9234649,42.337099</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Klamath Falls Airport-Kingsley Field (Ang)</value></Data></ExtendedData>
   <Point><coordinates>-104.9309537,42.3519349</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Glenview</value></Data></ExtendedData>
   <Point><coordinates>-104.8377117,42.2975794</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Chetco River</value></Data></ExtendedData>
   <Point><coordinates>-104.8131406,42.4019449</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Camp Hartell</value></Data></ExtendedData>
   <Point><coordinates>-104.8331908,42.3156028</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Bradley Iap</value></Data></ExtendedData>
   <Point><coordinates>-157.9056753,21.3865465</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Cambridge Springs</value></Data></ExtendedData>
   <Point><coordinates>-73.1636384,44.5092178</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cape Cod As</value></Data></ExtendedData>
   <Point><coordinates>-92.3067556,34.8999092</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Military Training Area Camp Edwards</value></Data></ExtendedData>
   <Point><coordinates>-97.7614988,30.3186185</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Fogarty</value></Data></ExtendedData>
   <Point><coordinates>-79.4815342,35.030124</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Fogarty</value></Data></ExtendedData>
   <Point><coordinates>-95.5602963,33.7990859</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Quonset Air Guard Base</value></Data></ExtendedData>
   <Point><coordinates>-89.6858472,33.7108287</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Toledo Express Arprt</value></Data></ExtendedData>
   <Point><coordinates>-93.3942006,32.5587253</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Des Moins Iap</value></Data></ExtendedData>
   <Point><coordinates>-122.5685401,47.1166826</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Station Newport</value></Data></ExtendedData>
   <Point><coordinates>-111.8504477,35.1948627</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Marblehead</value></Data></ExtendedData>
   <Point><coordinates>-72.1879102,41.3313899</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Bratenahl</value></Data></ExtendedData>
   <Point><coordinates>-83.0215869,41.5421759</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Perry Training Site</value></Data></ExtendedData>
   <Point><coordinates>-81.0847358,41.1972098</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Gould Island</value></Data></ExtendedData>
   <Point><coordinates>-94.4893776,46.2916448</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Rock Island Arsenal</value></Data></ExtendedData>
   <Point><coordinates>-94.5461479,46.2883169</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Stewart Air Guard Sta</value></Data></ExtendedData>
   <Point><coordinates>-94.4924331,46.3024384</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Stewart Annex</value></Data></ExtendedData>
   <Point><coordinates>-94.5113387,46.1742914</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Adams</value></Data></ExtendedData>
   <Point><coordinates>-94.5068363,46.2901688</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Lorain</value></Data></ExtendedData>
   <Point><coordinates>-94.4228489,46.2095583</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Scranton Army Ammunition Plnt</value></Data></ExtendedData>
   <Point><coordinates>-94.4871461,46.2997034</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Submarine Base New London</value></Data></ExtendedData>
   <Point><coordinates>-94.5007714,46.2539525</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Stone Ranch Mil Res</value></Data></ExtendedData>
   <Point><coordinates>-120.7031986,35.3393616</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>West Point Mil Res</value></Data></ExtendedData>
   <Point><coordinates>-117.5239396,47.7276162</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Stone Ranch Mil Res</value></Data></ExtendedData>
   <Point><coordinates>-73.9509459,41.3118507</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station New London</value></Data></ExtendedData>
   <Point><coordinates>-97.2946505,30.2616256</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Niantic</value></Data></ExtendedData>
   <Point><coordinates>-89.8085579,30.3233836</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Smith</value></Data></ExtendedData>
   <Point><coordinates>-122.7357397,47.6087767</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Army National Guard Marseilles Training Ctr</value></Data></ExtendedData>
   <Point><coordinates>-122.5584169,45.4126174</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station New Haven</value></Data></ExtendedData>
   <Point><coordinates>-76.3602664,36.8886896</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Youngstown Joint Air Reserve Sta</value></Data></ExtendedData>
   <Point><coordinates>-115.6768279,36.5869099</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Youngstown Joint Air Reserve Sta</value></Data></ExtendedData>
   <Point><coordinates>-84.1131256,34.2245021</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nuwc Fishers Island</value></Data></ExtendedData>
   <Point><coordinates>144.7367908,13.3106944</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Little Mountain Test Annex</value></Data></ExtendedData>
   <Point><coordinates>-75.8785878,35.7144858</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Tobyhanna Army Dep</value></Data></ExtendedData>
   <Point><coordinates>-110.8483292,32.1606892</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Ravenna Joint Military Training Center</value></Data></ExtendedData>
   <Point><coordinates>-76.8391429,40.2081212</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Mead Ts/fms 06/utes</value></Data></ExtendedData>
   <Point><coordinates>-121.2689243,37.8406105</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>F E Warren AFB</value></Data></ExtendedData>
   <Point><coordinates>-118.3009687,33.7731666</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cheyenne Regional Arprt</value></Data></ExtendedData>
   <Point><coordinates>-97.086055,47.9486368</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cheyenne Regional Arprt</value></Data></ExtendedData>
   <Point><coordinates>-82.8987848,39.9797445</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Hill AFB</value></Data></ExtendedData>
   <Point><coordinates>-75.0946874,40.0412873</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Offutt AFB</value></Data></ExtendedData>
   <Point><coordinates>-77.447473,37.4187007</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Ashland</value></Data></ExtendedData>
   <Point><coordinates>-93.6660942,41.544376</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Montauk</value></Data></ExtendedData>
   <Point><coordinates>-112.3430711,40.2970559</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Utah Test and Training Range North</value></Data></ExtendedData>
   <Point><coordinates>-83.0413014,42.4971723</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng New Castle</value></Data></ExtendedData>
   <Point><coordinates>-98.7284009,28.0973936</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Air Station Humboldt Bay</value></Data></ExtendedData>
   <Point><coordinates>-84.5156033,33.9150532</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Grand Island Aasf/rc</value></Data></ExtendedData>
   <Point><coordinates>-146.3127714,63.9176456</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Picatinny Arsenal</value></Data></ExtendedData>
   <Point><coordinates>-75.4679215,39.1251185</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Eatons Neck</value></Data></ExtendedData>
   <Point><coordinates>-113.2845936,40.1548643</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Shinnecock</value></Data></ExtendedData>
   <Point><coordinates>-92.1726588,46.8453369</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Lincoln Map</value></Data></ExtendedData>
   <Point><coordinates>-99.8390611,32.4228978</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Lincoln Aasf/readiness Ctr</value></Data></ExtendedData>
   <Point><coordinates>174.1071489,52.7210599</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Francis S Gabreski Arprt</value></Data></ExtendedData>
   <Point><coordinates>-117.8490751,34.8905213</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Mansfield Lahm Air National Guard Base</value></Data></ExtendedData>
   <Point><coordinates>-86.5308437,30.5751023</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Iowa Army Ammunition Plnt</value></Data></ExtendedData>
   <Point><coordinates>-147.0604722,64.6740656</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Moriches</value></Data></ExtendedData>
   <Point><coordinates>-79.9791109,38.9545396</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Utah Air National Guard</value></Data></ExtendedData>
   <Point><coordinates>-95.1705597,29.6165274</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Humboldt Bay</value></Data></ExtendedData>
   <Point><coordinates>-103.0926058,44.1512325</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>United States Army Joint Systems Manufacturing Center Lima</value></Data></ExtendedData>
   <Point><coordinates>-149.8029189,61.264487</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Support Detachment Monterey Magna Utah</value></Data></ExtendedData>
   <Point><coordinates>-157.9950947,21.3392562</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Grissom AFB</value></Data></ExtendedData>
   <Point><coordinates>-77.984659,39.4059766</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Grissom Arb</value></Data></ExtendedData>
   <Point><coordinates>-104.86318,41.1648061</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Fire Island</value></Data></ExtendedData>
   <Point><coordinates>-117.6484382,47.6186471</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Hamilton</value></Data></ExtendedData>
   <Point><coordinates>-81.6276447,30.4000051</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Jones Beach Freeport</value></Data></ExtendedData>
   <Point><coordinates>-95.6809959,38.960781</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>4th Mardiv Brooklyn</value></Data></ExtendedData>
   <Point><coordinates>-72.6432989,40.8370385</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Tooele Army Dep</value></Data></ExtendedData>
   <Point><coordinates>-119.7103909,36.7664584</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Greenlief Training Site</value></Data></ExtendedData>
   <Point><coordinates>-77.2758032,38.1179608</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Utah Test and Training Range</value></Data></ExtendedData>
   <Point><coordinates>-71.3399585,41.4753717</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Pittsburgh Airport Air Reserve Sta</value></Data></ExtendedData>
   <Point><coordinates>-66.5052581,18.0126063</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Pittsburgh Iap (Ang)</value></Data></ExtendedData>
   <Point><coordinates>-77.1563566,38.7084349</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Sandy Hook</value></Data></ExtendedData>
   <Point><coordinates>-85.9946395,39.8619159</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Hollidaysburg</value></Data></ExtendedData>
   <Point><coordinates>-84.81161,32.3916004</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Hollidaysburg</value></Data></ExtendedData>
   <Point><coordinates>-106.0817304,32.2543102</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Indiantown Gap Training Site</value></Data></ExtendedData>
   <Point><coordinates>-79.1457042,35.1357196</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Maneuver Training Area Camp Williams</value></Data></ExtendedData>
   <Point><coordinates>-87.6234221,36.6220067</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Weapons Station Earle (Waterfront Unit)</value></Data></ExtendedData>
   <Point><coordinates>-104.8266185,38.5590489</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Deseret Chemical Dep</value></Data></ExtendedData>
   <Point><coordinates>-94.2713255,35.3539522</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Monmouth</value></Data></ExtendedData>
   <Point><coordinates>-85.3176766,42.2992985</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Lawrenceville</value></Data></ExtendedData>
   <Point><coordinates>-77.3942023,39.4391511</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Weapons Station Earle</value></Data></ExtendedData>
   <Point><coordinates>-77.4336646,39.4395378</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Ship Parts Control Center Mechanicsburg</value></Data></ExtendedData>
   <Point><coordinates>-77.3923951,39.4439397</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Sierra Army Dep</value></Data></ExtendedData>
   <Point><coordinates>-74.5241136,40.0037765</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Graterford Fms</value></Data></ExtendedData>
   <Point><coordinates>-75.593086,44.1244559</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Defense Distribution Depot Susquehanna</value></Data></ExtendedData>
   <Point><coordinates>-76.5889005,37.1322542</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Carlisle Barracks</value></Data></ExtendedData>
   <Point><coordinates>-77.9162072,33.9811171</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Spring City Readiness Ctr</value></Data></ExtendedData>
   <Point><coordinates>-76.7645336,39.0824222</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Dugway Proving Ground</value></Data></ExtendedData>
   <Point><coordinates>-76.7437867,39.1057831</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>New Jersey National Guard Sea Girt Unit</value></Data></ExtendedData>
   <Point><coordinates>-82.2374063,33.356611</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Manasquan Bch</value></Data></ExtendedData>
   <Point><coordinates>-145.713666,63.9710186</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Beightler Armory</value></Data></ExtendedData>
   <Point><coordinates>-145.722241,63.9790953</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Defense Supply Center Philadelphia</value></Data></ExtendedData>
   <Point><coordinates>-145.7478779,63.9596593</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>McGuire AFB</value></Data></ExtendedData>
   <Point><coordinates>-145.7142773,63.9840414</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Engineering Station Lakehurst</value></Data></ExtendedData>
   <Point><coordinates>-145.7218756,63.9871136</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Letterkenny Army Dep</value></Data></ExtendedData>
   <Point><coordinates>-74.0287085,40.6086079</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Dix</value></Data></ExtendedData>
   <Point><coordinates>-97.7423322,31.2162921</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Defense Supply Center Columbus</value></Data></ExtendedData>
   <Point><coordinates>-110.3295572,31.5674747</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nsa Mechanicsburg Det Philadelphia Annex Pnbc</value></Data></ExtendedData>
   <Point><coordinates>-121.2538782,35.9556398</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Fallon (Target B-20)</value></Data></ExtendedData>
   <Point><coordinates>-76.6297751,40.4359333</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Benjamin Harrison</value></Data></ExtendedData>
   <Point><coordinates>-116.6325604,35.3744107</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Newport Chemical Dep</value></Data></ExtendedData>
   <Point><coordinates>-80.8267126,34.0400146</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Springfield Beckley Map</value></Data></ExtendedData>
   <Point><coordinates>-85.883024,37.9069057</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Capital Arprt</value></Data></ExtendedData>
   <Point><coordinates>-94.9178113,39.3642744</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Springfield Ts Camp Lincoln</value></Data></ExtendedData>
   <Point><coordinates>-77.3346534,37.2496701</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Operational Support Center Columbus</value></Data></ExtendedData>
   <Point><coordinates>-92.0304264,37.7321318</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Wright-Patterson AFB</value></Data></ExtendedData>
   <Point><coordinates>-92.1498744,37.7114713</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ohio Air National Guard 121st Air Refueling Wing-Rickenbacker</value></Data></ExtendedData>
   <Point><coordinates>-77.0164336,38.8672403</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Rickenbacker (Mta)</value></Data></ExtendedData>
   <Point><coordinates>-118.2861103,33.7183538</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Rosecrans Air National Guard Base</value></Data></ExtendedData>
   <Point><coordinates>-118.3108839,33.7213395</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Knightatown</value></Data></ExtendedData>
   <Point><coordinates>-85.7899304,33.7316006</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Rosecrans Air National Guard Base</value></Data></ExtendedData>
   <Point><coordinates>-85.9501336,33.7178642</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Indianapolis 38 Id</value></Data></ExtendedData>
   <Point><coordinates>-74.0597045,40.2869145</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Operational Support Center Denver</value></Data></ExtendedData>
   <Point><coordinates>-77.0796631,38.8797163</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Buckley AFB</value></Data></ExtendedData>
   <Point><coordinates>-77.909444,37.0367323</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Macon Ts</value></Data></ExtendedData>
   <Point><coordinates>-93.1203362,31.1570339</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>New Castle County Arprt</value></Data></ExtendedData>
   <Point><coordinates>-149.6401434,61.2644965</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Macon Ts</value></Data></ExtendedData>
   <Point><coordinates>-96.8179412,39.1847352</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Macon Ts</value></Data></ExtendedData>
   <Point><coordinates>-85.7486496,31.3983071</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Macon Ts</value></Data></ExtendedData>
   <Point><coordinates>-98.4407584,29.4594551</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng River Road Training Site</value></Data></ExtendedData>
   <Point><coordinates>-157.883506,21.3458537</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Shelbyville</value></Data></ExtendedData>
   <Point><coordinates>-98.4828777,34.6827185</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Allegany Ballistics Lab</value></Data></ExtendedData>
   <Point><coordinates>-81.6164637,31.993709</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Havre de Grace Mil Res</value></Data></ExtendedData>
   <Point><coordinates>-76.0174357,36.9227805</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nas Fallon Ew Range Faclty</value></Data></ExtendedData>
   <Point><coordinates>-98.0295153,32.8648478</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Reno Tahoe Iap</value></Data></ExtendedData>
   <Point><coordinates>-157.8340161,21.2817246</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Mta Camp Fretterd</value></Data></ExtendedData>
   <Point><coordinates>-84.5230017,33.9098563</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Atlantic City Iap</value></Data></ExtendedData>
   <Point><coordinates>-87.8879314,42.9410454</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Hulman Fld</value></Data></ExtendedData>
   <Point><coordinates>-112.7282322,32.8901712</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Dawson</value></Data></ExtendedData>
   <Point><coordinates>-87.8367838,42.0916942</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Atlantic City Iap</value></Data></ExtendedData>
   <Point><coordinates>-100.4045132,31.4318419</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Detrick</value></Data></ExtendedData>
   <Point><coordinates>-71.3449038,41.536989</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Detrick</value></Data></ExtendedData>
   <Point><coordinates>-97.3912796,47.9556796</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Detrick</value></Data></ExtendedData>
   <Point><coordinates>-75.4284121,40.2145805</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Dawson</value></Data></ExtendedData>
   <Point><coordinates>-111.3648756,47.4765464</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Mta Gunpowder Mil Res</value></Data></ExtendedData>
   <Point><coordinates>-87.8538353,42.300341</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Fallon</value></Data></ExtendedData>
   <Point><coordinates>-110.1263549,38.9813964</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Dawson</value></Data></ExtendedData>
   <Point><coordinates>-110.1441042,38.9816214</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ewvra Shepherd Fld</value></Data></ExtendedData>
   <Point><coordinates>-110.1404434,38.9851156</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Dawson</value></Data></ExtendedData>
   <Point><coordinates>-110.1228365,38.9593029</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Dawson</value></Data></ExtendedData>
   <Point><coordinates>-110.0870438,38.9578582</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Aberdeen Proving Ground</value></Data></ExtendedData>
   <Point><coordinates>-98.1852161,40.5249399</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Dawson</value></Data></ExtendedData>
   <Point><coordinates>-86.1440602,40.6639181</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Atlantic City</value></Data></ExtendedData>
   <Point><coordinates>-86.1512682,40.6540866</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Leavenworth</value></Data></ExtendedData>
   <Point><coordinates>144.8098807,13.4740656</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Camp Sherman Ts</value></Data></ExtendedData>
   <Point><coordinates>-89.0584383,30.4093403</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Williamstown</value></Data></ExtendedData>
   <Point><coordinates>-89.0687908,30.4170255</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Fallon (Target B-16)</value></Data></ExtendedData>
   <Point><coordinates>-89.0741796,30.399388</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Stillpond</value></Data></ExtendedData>
   <Point><coordinates>-89.0746561,30.4018823</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Martin State Arprt</value></Data></ExtendedData>
   <Point><coordinates>-89.0806884,30.4065055</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Atterbury</value></Data></ExtendedData>
   <Point><coordinates>-89.0613652,30.4103152</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Fallon (Target B-17)</value></Data></ExtendedData>
   <Point><coordinates>-145.1545735,62.4080175</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Baltimore</value></Data></ExtendedData>
   <Point><coordinates>-76.1033516,43.1027368</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Riley</value></Data></ExtendedData>
   <Point><coordinates>-71.2771043,42.4589481</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Fallon (Target B-19)</value></Data></ExtendedData>
   <Point><coordinates>-76.3357973,36.0985169</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Dover AFB</value></Data></ExtendedData>
   <Point><coordinates>-118.6556028,38.541948</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Beale AFB</value></Data></ExtendedData>
   <Point><coordinates>-77.0739177,38.868854</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft George G Meade</value></Data></ExtendedData>
   <Point><coordinates>-96.8045417,46.9137615</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Lake City Army Ammunition Plnt</value></Data></ExtendedData>
   <Point><coordinates>-158.0194801,21.5361123</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft George G Meade</value></Data></ExtendedData>
   <Point><coordinates>-111.9710878,46.6084465</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nsa Annapolis Gambrills</value></Data></ExtendedData>
   <Point><coordinates>-157.9478843,21.3309434</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Muscatatuck Urban Training Ctr</value></Data></ExtendedData>
   <Point><coordinates>-158.0061298,21.4378978</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Adelphi Laboratory</value></Data></ExtendedData>
   <Point><coordinates>-111.9913132,41.1279976</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Kansas Ag</value></Data></ExtendedData>
   <Point><coordinates>-106.1336876,32.9168698</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Walter Reed Army Medical Center (Forest Glen Annex)</value></Data></ExtendedData>
   <Point><coordinates>-82.6457217,36.524961</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>National Naval Medical Center Bethesda</value></Data></ExtendedData>
   <Point><coordinates>-115.1507723,32.8326342</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Support Activity Annapolis</value></Data></ExtendedData>
   <Point><coordinates>-80.3914019,25.4944965</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Upper Yard Annapolis Maryland</value></Data></ExtendedData>
   <Point><coordinates>-87.2943982,39.4540097</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Green River Test Complx</value></Data></ExtendedData>
   <Point><coordinates>-86.6989468,30.4294221</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nsa Annapolis Maryland</value></Data></ExtendedData>
   <Point><coordinates>-91.242995,40.7924894</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Green River Test Complx</value></Data></ExtendedData>
   <Point><coordinates>-67.0658661,18.4637601</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Green River Test Complx</value></Data></ExtendedData>
   <Point><coordinates>-90.0093382,29.9542522</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Surface Warfare Center Carderock</value></Data></ExtendedData>
   <Point><coordinates>-90.0053237,29.9606474</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Forbes Field Ang</value></Data></ExtendedData>
   <Point><coordinates>-90.0017642,29.9681283</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Green River Test Complx</value></Data></ExtendedData>
   <Point><coordinates>-81.8296585,38.8933381</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Green River Test Complx</value></Data></ExtendedData>
   <Point><coordinates>-90.0826627,32.3252316</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Elkins Army Guard</value></Data></ExtendedData>
   <Point><coordinates>-81.7054419,30.4863909</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Cape May</value></Data></ExtendedData>
   <Point><coordinates>-121.9256331,48.1996666</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Training Center Cape May</value></Data></ExtendedData>
   <Point><coordinates>-96.7469755,43.5848893</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>United States Naval Observatory</value></Data></ExtendedData>
   <Point><coordinates>-96.7416116,43.5732402</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Jackson County Army Guard</value></Data></ExtendedData>
   <Point><coordinates>-96.7382265,43.5953694</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Myer</value></Data></ExtendedData>
   <Point><coordinates>-122.5802305,47.0379633</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Support Activity Washington</value></Data></ExtendedData>
   <Point><coordinates>-80.1081617,26.9827046</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Headquarters Marine Corps</value></Data></ExtendedData>
   <Point><coordinates>-157.9919236,21.6553587</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Arlington Service Ctr</value></Data></ExtendedData>
   <Point><coordinates>-159.76854,22.0331312</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Lesley J McNair</value></Data></ExtendedData>
   <Point><coordinates>-95.6830761,39.0202088</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nmic Suitland</value></Data></ExtendedData>
   <Point><coordinates>-155.0391915,19.7068079</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Surface Warfare Center Crane</value></Data></ExtendedData>
   <Point><coordinates>-88.9234375,30.407889</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Bolling AFB</value></Data></ExtendedData>
   <Point><coordinates>-98.1202113,36.737405</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Research Lab</value></Data></ExtendedData>
   <Point><coordinates>-98.5682126,29.3849384</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Peterson AFB</value></Data></ExtendedData>
   <Point><coordinates>-98.5459907,29.3763359</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Andrews AFB</value></Data></ExtendedData>
   <Point><coordinates>-98.5790293,29.3615167</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Schriever AFB</value></Data></ExtendedData>
   <Point><coordinates>-98.5859021,29.3805214</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Salina Ks Training Ctr</value></Data></ExtendedData>
   <Point><coordinates>-155.2741375,19.4339026</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Peterson AFB</value></Data></ExtendedData>
   <Point><coordinates>-156.670889,58.70616</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Salina Ks Training Ctr</value></Data></ExtendedData>
   <Point><coordinates>-156.6408248,58.6802244</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>United States Air Force Academy Auxiliary Airfield</value></Data></ExtendedData>
   <Point><coordinates>-156.6875222,58.6880377</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cheyenne Mountain Afs</value></Data></ExtendedData>
   <Point><coordinates>-156.6864627,58.7004777</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Whiteman AFB</value></Data></ExtendedData>
   <Point><coordinates>-156.66309,58.6912854</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Belvoir</value></Data></ExtendedData>
   <Point><coordinates>-106.4877042,34.9952802</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>McClellan AFB</value></Data></ExtendedData>
   <Point><coordinates>-121.7381302,42.1596835</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Research Lab Chesapeake Bay Detachment</value></Data></ExtendedData>
   <Point><coordinates>-85.5176799,39.7679336</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Indian River Inlet</value></Data></ExtendedData>
   <Point><coordinates>-98.6178565,29.3866198</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>St Louis Afs</value></Data></ExtendedData>
   <Point><coordinates>-98.6649034,29.3688808</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Surface Warfare Center Indian Head</value></Data></ExtendedData>
   <Point><coordinates>-119.0649843,34.1082985</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Carson</value></Data></ExtendedData>
   <Point><coordinates>-119.0771186,34.1119236</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Base Quantico</value></Data></ExtendedData>
   <Point><coordinates>-94.25071,39.0968078</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Ts Ike Skelton</value></Data></ExtendedData>
   <Point><coordinates>-76.3625733,37.0865818</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Stump Neck Annex</value></Data></ExtendedData>
   <Point><coordinates>-100.7828643,29.356811</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Bethany Beach Ts</value></Data></ExtendedData>
   <Point><coordinates>-77.7025563,40.0208831</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Hawthorne Army Dep</value></Data></ExtendedData>
   <Point><coordinates>-111.5797556,46.2738895</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Scott AFB</value></Data></ExtendedData>
   <Point><coordinates>-96.7538777,40.841069</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Information Operations Command Sugar Grove</value></Data></ExtendedData>
   <Point><coordinates>-112.2465283,41.2522295</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Midway Research Ctr</value></Data></ExtendedData>
   <Point><coordinates>-92.1386392,34.903916</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Blossom Point Research Faclty</value></Data></ExtendedData>
   <Point><coordinates>-118.2334161,33.7419039</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Blossom Pt</value></Data></ExtendedData>
   <Point><coordinates>-94.1366742,32.6708004</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Mountain Warfare Training Center Bridgeport</value></Data></ExtendedData>
   <Point><coordinates>-118.052224,33.7912363</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Yeager Arprt</value></Data></ExtendedData>
   <Point><coordinates>-118.3809748,33.9188917</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Support Detachment Monterey Dixon Transmitter</value></Data></ExtendedData>
   <Point><coordinates>-91.1290106,30.2008471</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Surface Warfare Center Dahlgren Mainside</value></Data></ExtendedData>
   <Point><coordinates>-85.7236568,38.1780044</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Solomons Navy Recreation Ctr</value></Data></ExtendedData>
   <Point><coordinates>-112.3728968,33.5364067</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Pueblo Chemical Dep</value></Data></ExtendedData>
   <Point><coordinates>-112.5279857,33.7159982</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Surface Warfare Center Pumpkin Annex</value></Data></ExtendedData>
   <Point><coordinates>-82.5010176,27.8436588</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Patuxent River</value></Data></ExtendedData>
   <Point><coordinates>-158.2068764,21.530768</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Travis AFB</value></Data></ExtendedData>
   <Point><coordinates>-80.6797853,28.0209469</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Training Center Petaluma</value></Data></ExtendedData>
   <Point><coordinates>-111.2078232,47.488734</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Frankfort Boone Ng Ctr</value></Data></ExtendedData>
   <Point><coordinates>-111.1825145,47.5058481</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Louisville Iap Standiford</value></Data></ExtendedData>
   <Point><coordinates>-122.5463564,47.5659443</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Sparta Armory</value></Data></ExtendedData>
   <Point><coordinates>-94.3642345,36.7938873</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Webster Fld</value></Data></ExtendedData>
   <Point><coordinates>-123.9438238,46.1289188</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Rio Vis</value></Data></ExtendedData>
   <Point><coordinates>-66.2835321,18.0285751</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Tonopah Afs</value></Data></ExtendedData>
   <Point><coordinates>-89.0068066,31.0902583</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft A P Hill</value></Data></ExtendedData>
   <Point><coordinates>-112.0182986,40.4273433</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Communication Station Point Reyes</value></Data></ExtendedData>
   <Point><coordinates>-112.1451888,46.6259139</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Military Ocean Terminal Concord</value></Data></ExtendedData>
   <Point><coordinates>-120.7801272,35.7812338</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Military Ocean Terminal Concord</value></Data></ExtendedData>
   <Point><coordinates>-82.518112,40.8116502</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Weapons Station Seal Beach (Concord Detachment)</value></Data></ExtendedData>
   <Point><coordinates>-117.2503006,33.9022404</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Crisfield</value></Data></ExtendedData>
   <Point><coordinates>-117.2926887,33.8892368</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Knox</value></Data></ExtendedData>
   <Point><coordinates>-117.2578998,33.8874214</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Defense Distribution Region West Sharpe Site</value></Data></ExtendedData>
   <Point><coordinates>-116.1380779,34.4592614</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Clark</value></Data></ExtendedData>
   <Point><coordinates>-80.721783,32.5113132</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station San Francisco</value></Data></ExtendedData>
   <Point><coordinates>-80.7144628,32.4761539</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Tonopah Auxiliary Airfield Annex 2</value></Data></ExtendedData>
   <Point><coordinates>-117.3533462,33.301157</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Oakland</value></Data></ExtendedData>
   <Point><coordinates>-77.0286621,34.6928855</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Leonard Wood</value></Data></ExtendedData>
   <Point><coordinates>-77.2587382,35.023145</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Riverbank Army Ammunition Plnt</value></Data></ExtendedData>
   <Point><coordinates>-76.8849986,34.9122237</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>San Joaquin Depot Tracy</value></Data></ExtendedData>
   <Point><coordinates>-117.086041,32.8768121</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Leonard Wood</value></Data></ExtendedData>
   <Point><coordinates>-114.6023184,32.6453153</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Blue Grass Army Dep</value></Data></ExtendedData>
   <Point><coordinates>-77.4078901,34.6308445</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>McConnell AFB</value></Data></ExtendedData>
   <Point><coordinates>-117.4239414,33.3620449</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Pillar Point Afs</value></Data></ExtendedData>
   <Point><coordinates>-157.7510787,21.445354</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Defense Supply Center Richmond</value></Data></ExtendedData>
   <Point><coordinates>-77.4569004,38.5520661</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Navpmossp Mountain View</value></Data></ExtendedData>
   <Point><coordinates>-84.0548297,31.5510906</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nellis Air Force Range</value></Data></ExtendedData>
   <Point><coordinates>-116.9431942,34.8599371</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cheatham Annex</value></Data></ExtendedData>
   <Point><coordinates>-116.8700201,34.8903858</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Wendell H Ford Regional Training Ctr</value></Data></ExtendedData>
   <Point><coordinates>-119.5423109,38.3743509</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Lee</value></Data></ExtendedData>
   <Point><coordinates>-80.6959599,32.3384322</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Weapons Station Yorktown</value></Data></ExtendedData>
   <Point><coordinates>-117.2010732,32.7385775</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>United States Coast Guard Training Center Yorktown</value></Data></ExtendedData>
   <Point><coordinates>-81.5251205,30.4012632</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Yorktown Fuel Dep</value></Data></ExtendedData>
   <Point><coordinates>-76.41518,39.3318249</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Radford Army Ammunition Plnt</value></Data></ExtendedData>
   <Point><coordinates>-122.1711017,48.1237807</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Eustis</value></Data></ExtendedData>
   <Point><coordinates>-86.3564565,32.3825279</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Langley AFB</value></Data></ExtendedData>
   <Point><coordinates>-86.246279,32.4069311</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Pickett</value></Data></ExtendedData>
   <Point><coordinates>-95.9397722,34.8221726</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Saint George/fms</value></Data></ExtendedData>
   <Point><coordinates>-157.9714468,21.383556</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Station Norfolk</value></Data></ExtendedData>
   <Point><coordinates>-157.9877748,21.3176328</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Support Activity Norfolk</value></Data></ExtendedData>
   <Point><coordinates>-121.403087,38.6629366</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Story</value></Data></ExtendedData>
   <Point><coordinates>-97.2602462,37.625137</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Amphibious Base Little Creek</value></Data></ExtendedData>
   <Point><coordinates>-80.8005965,33.9228988</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Support Activity Norfolk (Lafayette River Complex)</value></Data></ExtendedData>
   <Point><coordinates>-84.0037194,35.8114759</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Wappapello Training Site</value></Data></ExtendedData>
   <Point><coordinates>-74.5815622,40.0289636</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Craney Island Fuel Dep</value></Data></ExtendedData>
   <Point><coordinates>-76.1232557,43.0982111</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Portsmouth</value></Data></ExtendedData>
   <Point><coordinates>-103.7803569,34.2844185</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Medical Center Portsmouth</value></Data></ExtendedData>
   <Point><coordinates>-77.3717846,38.4983561</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nas Oceana Nexcom Headquarters</value></Data></ExtendedData>
   <Point><coordinates>-88.7053873,35.8756915</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Norfolk Naval Shipyard</value></Data></ExtendedData>
   <Point><coordinates>-121.9739372,38.0448839</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Oceana</value></Data></ExtendedData>
   <Point><coordinates>-122.020295,38.0423987</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Maneuver Traing Area Camp Crowder Neosho</value></Data></ExtendedData>
   <Point><coordinates>-77.9756713,34.0218225</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Saint Julien's Creek Annex</value></Data></ExtendedData>
   <Point><coordinates>-70.5450366,41.7001637</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Oceana (Dam Neck Annex)</value></Data></ExtendedData>
   <Point><coordinates>-93.2060289,44.8876833</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Fresno Yosemite International Air Force National Guard</value></Data></ExtendedData>
   <Point><coordinates>-101.3380081,48.4209007</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Kegelman Air Force Auxiliary Fld</value></Data></ExtendedData>
   <Point><coordinates>-86.4016556,32.3047406</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Alf Fentress Chesapeake</value></Data></ExtendedData>
   <Point><coordinates>-83.1864789,30.968134</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Campbell</value></Data></ExtendedData>
   <Point><coordinates>-115.8658767,43.0489368</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Monterey</value></Data></ExtendedData>
   <Point><coordinates>-78.8005287,36.2010864</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Presidio of Monterey</value></Data></ExtendedData>
   <Point><coordinates>-85.5245845,39.051418</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Post-Graduate School (Monterey)</value></Data></ExtendedData>
   <Point><coordinates>-97.7361169,28.7456893</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Support Detachment Monterey Navy School Annex</value></Data></ExtendedData>
   <Point><coordinates>-118.0140691,39.5284002</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Creech AFB</value></Data></ExtendedData>
   <Point><coordinates>-81.7736741,24.5788326</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Support Detachment Monterey Navy School Annex</value></Data></ExtendedData>
   <Point><coordinates>-81.7964229,24.5802294</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Support Activity Northwest Annex-Chesapeake</value></Data></ExtendedData>
   <Point><coordinates>-81.7928311,24.5609072</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Holston Army Ammunition Plnt</value></Data></ExtendedData>
   <Point><coordinates>-81.8042067,24.5468724</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Johnson City Gray</value></Data></ExtendedData>
   <Point><coordinates>-81.7912447,24.5643792</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Vance AFB</value></Data></ExtendedData>
   <Point><coordinates>-76.0843061,36.8439551</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Lemoore</value></Data></ExtendedData>
   <Point><coordinates>-70.4532343,44.9910277</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Thunderbird Youth Acdmy</value></Data></ExtendedData>
   <Point><coordinates>-70.4212862,44.9670843</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Floyd Edsall Training Ctr</value></Data></ExtendedData>
   <Point><coordinates>-87.0034545,30.7213308</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Elizabeth City</value></Data></ExtendedData>
   <Point><coordinates>-87.0322436,30.6875223</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nellis AFB</value></Data></ExtendedData>
   <Point><coordinates>-87.0202524,30.7134301</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Tulsa Iap</value></Data></ExtendedData>
   <Point><coordinates>-87.015612,30.7423966</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Mta Camp Butner</value></Data></ExtendedData>
   <Point><coordinates>-86.6748733,36.1109346</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nashville Iap</value></Data></ExtendedData>
   <Point><coordinates>-84.3590009,33.7221311</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Nashville</value></Data></ExtendedData>
   <Point><coordinates>-70.6637292,43.6687493</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Harvey Point Defense Testing Activity</value></Data></ExtendedData>
   <Point><coordinates>-106.0811943,35.5697487</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Vts Smyrna</value></Data></ExtendedData>
   <Point><coordinates>-77.090402,39.0019076</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Lv (Henderson) Readiness Ctr</value></Data></ExtendedData>
   <Point><coordinates>-74.375279,40.0273319</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Hunter Liggett</value></Data></ExtendedData>
   <Point><coordinates>-115.6680724,32.8252316</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Vts Milan</value></Data></ExtendedData>
   <Point><coordinates>-69.9380487,43.9076923</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Milan Army Ammunition Plnt</value></Data></ExtendedData>
   <Point><coordinates>-69.9381498,43.9090872</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Vts Milan</value></Data></ExtendedData>
   <Point><coordinates>-69.942798,43.9083031</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Vts Milan</value></Data></ExtendedData>
   <Point><coordinates>-67.2849081,44.6509883</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Vts Milan</value></Data></ExtendedData>
   <Point><coordinates>-97.2792814,27.6925703</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>McGhee Tyson Arprt</value></Data></ExtendedData>
   <Point><coordinates>-97.4364615,27.7014888</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Raleigh</value></Data></ExtendedData>
   <Point><coordinates>-97.3129782,27.6326577</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Oregon Inlet</value></Data></ExtendedData>
   <Point><coordinates>-118.7043204,39.42219</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Maneuver Training Center-Heavy Camp Roberts</value></Data></ExtendedData>
   <Point><coordinates>-118.8806288,39.339449</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Warfare Center China Lake</value></Data></ExtendedData>
   <Point><coordinates>-118.232531,39.2059881</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Dare County Range</value></Data></ExtendedData>
   <Point><coordinates>-118.6368758,39.171088</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Gruber</value></Data></ExtendedData>
   <Point><coordinates>-118.3627749,39.8842623</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Jackson Airport Armory</value></Data></ExtendedData>
   <Point><coordinates>-81.688585,30.221577</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>National Guard Santa Fe-Oñate Complex Training Site</value></Data></ExtendedData>
   <Point><coordinates>-81.8697612,30.3552884</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Tinker AFB</value></Data></ExtendedData>
   <Point><coordinates>-90.0210337,29.8314616</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Will Rogers World Arprt</value></Data></ExtendedData>
   <Point><coordinates>-81.6687271,24.5865277</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Tinker Support Annex</value></Data></ExtendedData>
   <Point><coordinates>-97.8127735,27.5000255</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Tinker Aerospace Complx</value></Data></ExtendedData>
   <Point><coordinates>-119.9329219,36.3173211</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Irwin</value></Data></ExtendedData>
   <Point><coordinates>-88.5693218,32.5530337</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Rio Rancho Ts</value></Data></ExtendedData>
   <Point><coordinates>-117.2063377,32.7002696</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Arnold AFB</value></Data></ExtendedData>
   <Point><coordinates>-116.6814003,33.3401763</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Chaffee Maneuver Training Center</value></Data></ExtendedData>
   <Point><coordinates>-76.0309237,36.8137587</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Seymour Johnson AFB</value></Data></ExtendedData>
   <Point><coordinates>-75.9654758,36.7881198</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp San Luis Obispo</value></Data></ExtendedData>
   <Point><coordinates>-76.4200783,38.2818793</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Support Activity Mid-South</value></Data></ExtendedData>
   <Point><coordinates>-87.3062773,30.3525505</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Field Office Cape Hatteras</value></Data></ExtendedData>
   <Point><coordinates>-87.2906237,30.4035221</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Charlotte Douglas International Arprt</value></Data></ExtendedData>
   <Point><coordinates>-87.4140627,30.383761</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Hatteras Inlet</value></Data></ExtendedData>
   <Point><coordinates>-87.3414455,30.4704098</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Navajo</value></Data></ExtendedData>
   <Point><coordinates>-122.6616115,48.3385547</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Navobssta Flagstaff</value></Data></ExtendedData>
   <Point><coordinates>-122.6006236,48.2951174</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Pope AFB</value></Data></ExtendedData>
   <Point><coordinates>-97.4338375,32.7693689</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Bragg</value></Data></ExtendedData>
   <Point><coordinates>-117.4121983,35.7507096</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nswc Carderock Div</value></Data></ExtendedData>
   <Point><coordinates>-76.1634519,36.9166544</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Mackall</value></Data></ExtendedData>
   <Point><coordinates>144.6518321,13.4278587</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Air Station Cherry Point (Outlying Field Oak Grove)</value></Data></ExtendedData>
   <Point><coordinates>144.6822284,13.4026249</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Point of Marsh Target Airfield</value></Data></ExtendedData>
   <Point><coordinates>-122.71455,47.7227806</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Kirtland AFB</value></Data></ExtendedData>
   <Point><coordinates>-122.6477325,47.5569186</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Volunteer Training Site Catoosa</value></Data></ExtendedData>
   <Point><coordinates>-117.2458314,32.6962555</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Air Station Cherry Pt</value></Data></ExtendedData>
   <Point><coordinates>-117.1971057,32.7487164</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Little Rock AFB</value></Data></ExtendedData>
   <Point><coordinates>-117.1720388,32.7136722</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Joseph T Robinson</value></Data></ExtendedData>
   <Point><coordinates>-117.0938921,32.8049651</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Olf Atlantic</value></Data></ExtendedData>
   <Point><coordinates>-119.2083886,34.1629131</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Edwards AFB</value></Data></ExtendedData>
   <Point><coordinates>-119.1103834,34.1126467</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Logistics Base Barstow Yermo Annex</value></Data></ExtendedData>
   <Point><coordinates>-119.6873072,45.7204968</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Logistics Base Barstow Nebo Annex</value></Data></ExtendedData>
   <Point><coordinates>144.8290839,13.476897</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>McAlester Army Ammunition Plnt</value></Data></ExtendedData>
   <Point><coordinates>144.8429442,13.5800055</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Vandenberg AFB</value></Data></ExtendedData>
   <Point><coordinates>-89.1262724,30.3779852</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Fort Macon</value></Data></ExtendedData>
   <Point><coordinates>-80.6819564,32.3889289</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Air Station Cherry Point (Bogue Field M C A L F)</value></Data></ExtendedData>
   <Point><coordinates>144.7401848,13.4738999</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Sill</value></Data></ExtendedData>
   <Point><coordinates>-81.7509178,24.5688905</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Altus AFB</value></Data></ExtendedData>
   <Point><coordinates>-79.2793232,38.5196929</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Redstone Arsenal</value></Data></ExtendedData>
   <Point><coordinates>-122.7259821,48.0524815</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Base Camp Lejeune</value></Data></ExtendedData>
   <Point><coordinates>-76.3079738,36.8460822</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Air Ground Combat Center Twentynine Palms</value></Data></ExtendedData>
   <Point><coordinates>-117.1450057,32.7264287</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cannon AFB Site 2</value></Data></ExtendedData>
   <Point><coordinates>-82.9459055,39.819765</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cannon AFB</value></Data></ExtendedData>
   <Point><coordinates>-104.7434157,39.7163099</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Pine Bluff Arsenal</value></Data></ExtendedData>
   <Point><coordinates>-87.6317197,30.3911623</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Melrose Air Force Range</value></Data></ExtendedData>
   <Point><coordinates>-88.831322,32.7971108</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cumming Army Guard</value></Data></ExtendedData>
   <Point><coordinates>-122.6323675,48.1895278</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Base Ventura County (Construction Batallion Center Port Hueneme)</value></Data></ExtendedData>
   <Point><coordinates>-87.0644062,31.0486417</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Channel Islands Angs</value></Data></ExtendedData>
   <Point><coordinates>-86.9568258,30.5062237</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Base Ventura County (Naval Air Station Point Mugu)</value></Data></ExtendedData>
   <Point><coordinates>-87.0440408,31.4157328</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Laguna Peak</value></Data></ExtendedData>
   <Point><coordinates>-86.8928663,30.4250892</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Laguna Peak</value></Data></ExtendedData>
   <Point><coordinates>-117.1118572,32.562505</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Jackson</value></Data></ExtendedData>
   <Point><coordinates>-86.9387777,30.609145</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Military Ocean Terminal Sunny Pt</value></Data></ExtendedData>
   <Point><coordinates>-87.8093459,30.5619545</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Santa Cruz Island</value></Data></ExtendedData>
   <Point><coordinates>-87.139813,30.6253045</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Sheppard AFB</value></Data></ExtendedData>
   <Point><coordinates>-87.647198,30.5080574</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Fisher Recreation Site</value></Data></ExtendedData>
   <Point><coordinates>-87.5407774,30.3446807</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Shaw AFB</value></Data></ExtendedData>
   <Point><coordinates>-121.8733682,36.5973427</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Weapons Station Seal Beach Corona</value></Data></ExtendedData>
   <Point><coordinates>-77.0233896,38.8236314</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>McEntire Joint National Guard Base</value></Data></ExtendedData>
   <Point><coordinates>-76.5319779,38.6585942</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Los Angeles Air Force Base (Area B)</value></Data></ExtendedData>
   <Point><coordinates>-158.1258835,21.4416341</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Dobbins Air Reserve Base</value></Data></ExtendedData>
   <Point><coordinates>-118.4930795,32.9080086</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>General Lucius D Clay National Guard Ctr</value></Data></ExtendedData>
   <Point><coordinates>-119.5057381,33.2477046</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>March AFB</value></Data></ExtendedData>
   <Point><coordinates>144.699513,13.4489443</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>White Sands Missile Range</value></Data></ExtendedData>
   <Point><coordinates>144.6874998,13.4330152</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>White Sands Missile Range</value></Data></ExtendedData>
   <Point><coordinates>-76.9866062,40.2276956</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>March AFB</value></Data></ExtendedData>
   <Point><coordinates>-122.2229693,47.9882711</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>March Air Reserve Base</value></Data></ExtendedData>
   <Point><coordinates>-87.836292,42.312487</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>White Sands Missile Range</value></Data></ExtendedData>
   <Point><coordinates>-81.4248725,30.381479</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Maxey</value></Data></ExtendedData>
   <Point><coordinates>-71.3038548,41.5438503</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Mta Clarks Hill Reservation</value></Data></ExtendedData>
   <Point><coordinates>-76.298219,36.9425567</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Los Alamitos Reserve Center and Air Sta</value></Data></ExtendedData>
   <Point><coordinates>-117.1228065,32.6755219</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Defense Fuel Support Point San Pedro</value></Data></ExtendedData>
   <Point><coordinates>-81.5334045,30.7932516</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Seal Beach Naval Weapons Sta</value></Data></ExtendedData>
   <Point><coordinates>-81.4826859,30.7689746</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Long Beach Fuel Complx</value></Data></ExtendedData>
   <Point><coordinates>-72.0860249,41.3995078</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft McClellan Air National Guard Training Center</value></Data></ExtendedData>
   <Point><coordinates>-117.2170731,32.7255372</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Los Angeles-Long Bch</value></Data></ExtendedData>
   <Point><coordinates>-76.4622203,38.9897083</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>National Guard Atlanta-Confederate Avenue</value></Data></ExtendedData>
   <Point><coordinates>-89.8673815,35.334856</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft McArthur Family Housing Annex</value></Data></ExtendedData>
   <Point><coordinates>-90.0325912,29.9507961</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft McArthur Family Housing Annex</value></Data></ExtendedData>
   <Point><coordinates>-76.3010443,36.9245112</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft McClellan Air National Guard Training Center</value></Data></ExtendedData>
   <Point><coordinates>-76.3023618,36.9022176</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Luke AFB Auxiliary Field 1</value></Data></ExtendedData>
   <Point><coordinates>-76.2674718,36.5590593</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp McCain Training Center</value></Data></ExtendedData>
   <Point><coordinates>-81.1967792,28.5842067</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Anniston Army Dep</value></Data></ExtendedData>
   <Point><coordinates>-85.7523605,30.1727811</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Columbus AFB</value></Data></ExtendedData>
   <Point><coordinates>-76.9949991,38.8738583</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Oglethorpe Armory</value></Data></ExtendedData>
   <Point><coordinates>-121.7770003,38.3728324</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>North Air Force Auxiliary Fld</value></Data></ExtendedData>
   <Point><coordinates>-112.0733603,40.6784041</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Birmingham Arprt</value></Data></ExtendedData>
   <Point><coordinates>-121.8614268,36.5868593</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Luke AFB</value></Data></ExtendedData>
   <Point><coordinates>-121.8606891,36.5916341</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Papago Mil Res</value></Data></ExtendedData>
   <Point><coordinates>-73.8235812,43.0798784</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Buckeye</value></Data></ExtendedData>
   <Point><coordinates>-77.1924475,38.9748702</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Red River Army Dep</value></Data></ExtendedData>
   <Point><coordinates>-86.8124689,38.8411125</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Sky Harbour Iap</value></Data></ExtendedData>
   <Point><coordinates>-77.0322992,38.3397503</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Base Camp Pendleton</value></Data></ExtendedData>
   <Point><coordinates>-77.1835304,38.5843408</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Seal Beach Naval Weapons Station (Fallbrook Annex)</value></Data></ExtendedData>
   <Point><coordinates>-77.0423857,38.3019864</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Gordon</value></Data></ExtendedData>
   <Point><coordinates>-122.6218145,47.6972829</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station North Island (Cleveland National Forest Survival Training)</value></Data></ExtendedData>
   <Point><coordinates>-79.9632204,32.9637145</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Chocolate Mountains Aerial Gunnery Range</value></Data></ExtendedData>
   <Point><coordinates>-79.9230715,32.9499704</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Air Station Camp Pendleton</value></Data></ExtendedData>
   <Point><coordinates>-79.9890405,33.2558549</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Weapons Station Charleston (Short Stay)</value></Data></ExtendedData>
   <Point><coordinates>-74.1514317,40.2555168</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Reserve (San Nicolas Island)</value></Data></ExtendedData>
   <Point><coordinates>-74.0705708,40.4218431</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>White Sands Missile Range</value></Data></ExtendedData>
   <Point><coordinates>-121.9842195,37.9922743</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Florence Mil Res</value></Data></ExtendedData>
   <Point><coordinates>-117.5694488,33.9237581</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Yuma Proving Ground</value></Data></ExtendedData>
   <Point><coordinates>-76.5854755,37.2448233</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Weapons Station Charleston</value></Data></ExtendedData>
   <Point><coordinates>-111.7417108,35.1873803</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Weapons Station Charleston</value></Data></ExtendedData>
   <Point><coordinates>-122.0284359,37.4129273</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Shade Tree Range</value></Data></ExtendedData>
   <Point><coordinates>-73.2045312,42.4622903</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Holloman AFB</value></Data></ExtendedData>
   <Point><coordinates>144.8153943,13.5219585</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Charleston Defense Fuel Support Pt</value></Data></ExtendedData>
   <Point><coordinates>-116.4387866,32.6714424</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Reservation San Clemente Island</value></Data></ExtendedData>
   <Point><coordinates>-116.5185883,32.7119589</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Charleston AFB</value></Data></ExtendedData>
   <Point><coordinates>-117.2405191,32.667774</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Gila Bend Air Force Auxiliary Fld</value></Data></ExtendedData>
   <Point><coordinates>-117.1195508,32.6848753</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Air Station Miramar</value></Data></ExtendedData>
   <Point><coordinates>-117.1133558,32.6721115</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Wolters</value></Data></ExtendedData>
   <Point><coordinates>-114.9933101,36.2436209</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Macon Rti</value></Data></ExtendedData>
   <Point><coordinates>-116.1698549,37.3068019</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Saginaw</value></Data></ExtendedData>
   <Point><coordinates>-71.6412396,42.9370983</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Holtville Carrier Landing Site</value></Data></ExtendedData>
   <Point><coordinates>-75.6060236,39.678853</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Facility el Centro</value></Data></ExtendedData>
   <Point><coordinates>-74.0372989,40.1238204</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Base San Diego Mission Gorge</value></Data></ExtendedData>
   <Point><coordinates>-87.4488356,39.8502287</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Outlying Field Bravo</value></Data></ExtendedData>
   <Point><coordinates>-149.3748486,61.6031334</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Boles Wells Annex</value></Data></ExtendedData>
   <Point><coordinates>-70.2827416,44.0863178</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Charleston</value></Data></ExtendedData>
   <Point><coordinates>-83.0675068,40.0892333</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station and Joint Reserve Base Fort Worth</value></Data></ExtendedData>
   <Point><coordinates>-121.1282596,44.0258438</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Base Point Loma (Old Town Campus)</value></Data></ExtendedData>
   <Point><coordinates>-75.0623658,38.5472508</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Recruit Depot San Diego</value></Data></ExtendedData>
   <Point><coordinates>-121.1165562,44.1997677</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Medical Center San Diego</value></Data></ExtendedData>
   <Point><coordinates>-100.7201874,46.8296092</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Submarine Base San Diego</value></Data></ExtendedData>
   <Point><coordinates>-70.9365415,44.3966338</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Base San Diego (Broadway Complex)</value></Data></ExtendedData>
   <Point><coordinates>-122.6810577,47.55314</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nb Coronado Camp Morena</value></Data></ExtendedData>
   <Point><coordinates>-112.6018288,33.4644845</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Boles Wells Annex</value></Data></ExtendedData>
   <Point><coordinates>-80.0479292,41.7941294</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Yuma Proving Ground</value></Data></ExtendedData>
   <Point><coordinates>-123.2705659,44.7142314</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station North Island</value></Data></ExtendedData>
   <Point><coordinates>-72.6656787,41.9421257</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Base Point Loma</value></Data></ExtendedData>
   <Point><coordinates>-82.9522317,39.3554837</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nb San Diego Dryside</value></Data></ExtendedData>
   <Point><coordinates>-92.1588318,46.8336343</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Station San Diego</value></Data></ExtendedData>
   <Point><coordinates>-92.297294,31.3978832</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nb San Diego National City</value></Data></ExtendedData>
   <Point><coordinates>-111.3291098,33.1375881</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nb Coronado Camp Michael Monsoor</value></Data></ExtendedData>
   <Point><coordinates>-115.0407676,36.290536</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Longhorn Army Ammunition Plnt</value></Data></ExtendedData>
   <Point><coordinates>-157.8044689,21.2631258</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nb Point Loma Spawars South</value></Data></ExtendedData>
   <Point><coordinates>-157.7952838,21.2615732</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Picacho Aviation Ts</value></Data></ExtendedData>
   <Point><coordinates>-84.9083768,38.1856981</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Amphibious Base Coronado East</value></Data></ExtendedData>
   <Point><coordinates>-98.2987087,40.9616301</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Air Station Yuma</value></Data></ExtendedData>
   <Point><coordinates>-89.0628675,30.4166361</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Barry M Goldwater Air Force Range</value></Data></ExtendedData>
   <Point><coordinates>-76.1041621,39.5327115</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Robins AFB</value></Data></ExtendedData>
   <Point><coordinates>-78.4148329,40.4390489</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Silver Strand Training Complx</value></Data></ExtendedData>
   <Point><coordinates>-78.4144996,40.4436326</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Outlying Landing Field Imperial Bch</value></Data></ExtendedData>
   <Point><coordinates>-86.2280956,39.744325</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Minden Training Site</value></Data></ExtendedData>
   <Point><coordinates>-88.9130017,35.5981578</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Meridian</value></Data></ExtendedData>
   <Point><coordinates>-82.4886116,36.4212319</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Silver Bell Army Heliport</value></Data></ExtendedData>
   <Point><coordinates>-158.0626215,21.319273</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>White Sands Missile Range</value></Data></ExtendedData>
   <Point><coordinates>-122.9778122,44.0656033</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Air Station Beaufort</value></Data></ExtendedData>
   <Point><coordinates>-84.57149,42.7681919</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Barksdale AFB</value></Data></ExtendedData>
   <Point><coordinates>-106.9352313,32.2758973</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Barry Goldwater Range</value></Data></ExtendedData>
   <Point><coordinates>-74.7446814,40.269831</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Air Station Beaufort</value></Data></ExtendedData>
   <Point><coordinates>-96.7550026,40.8373749</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Dyess AFB</value></Data></ExtendedData>
   <Point><coordinates>-115.2004989,36.0173778</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Maxwell Air Force Base (Gunter Annex)</value></Data></ExtendedData>
   <Point><coordinates>-83.6057112,32.8613137</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Benning</value></Data></ExtendedData>
   <Point><coordinates>-92.4907566,39.6987711</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Hospital Beaufort</value></Data></ExtendedData>
   <Point><coordinates>-92.5008085,39.6472026</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Maxwell AFB</value></Data></ExtendedData>
   <Point><coordinates>-92.527362,39.6734971</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Recruit Depot Parris Island</value></Data></ExtendedData>
   <Point><coordinates>-92.5224636,39.6496913</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Jackson Iap Thompson Fld</value></Data></ExtendedData>
   <Point><coordinates>-122.9993008,44.9128229</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Montgomery Regional Airport Army National Guard</value></Data></ExtendedData>
   <Point><coordinates>-96.4379359,41.1936185</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Las Cruces</value></Data></ExtendedData>
   <Point><coordinates>-98.0438391,43.7618484</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Bliss</value></Data></ExtendedData>
   <Point><coordinates>-71.0726831,42.5446067</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Davis-Monthan AFB</value></Data></ExtendedData>
   <Point><coordinates>-76.8457103,39.498038</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Tucson International Airport Air Guard Sta</value></Data></ExtendedData>
   <Point><coordinates>-82.2777565,33.794291</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Savannah/hilton Head Iap</value></Data></ExtendedData>
   <Point><coordinates>-76.5049862,39.4324081</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Stewart</value></Data></ExtendedData>
   <Point><coordinates>-86.7588251,36.099095</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Huachuca</value></Data></ExtendedData>
   <Point><coordinates>-80.3247778,40.9794223</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Logistics Base Albany</value></Data></ExtendedData>
   <Point><coordinates>-71.1222083,43.2777784</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Beauregard</value></Data></ExtendedData>
   <Point><coordinates>-84.3100028,33.617423</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Goodfellow AFB</value></Data></ExtendedData>
   <Point><coordinates>-111.9621997,33.4673291</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Outlying Landing Field Evergreen</value></Data></ExtendedData>
   <Point><coordinates>-111.4882422,32.6627665</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Rucker</value></Data></ExtendedData>
   <Point><coordinates>-78.7120938,35.8091962</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Esler Fld</value></Data></ExtendedData>
   <Point><coordinates>-82.9514583,39.8052697</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Smr Camp Beauregard</value></Data></ExtendedData>
   <Point><coordinates>-106.6520688,35.3733855</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Hood</value></Data></ExtendedData>
   <Point><coordinates>-75.6073738,39.6335168</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Polk</value></Data></ExtendedData>
   <Point><coordinates>-92.4317412,43.9969401</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Maneuver Training Area Camp Shelby</value></Data></ExtendedData>
   <Point><coordinates>-93.127246,44.7477165</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Outlying Landing Field Brewton</value></Data></ExtendedData>
   <Point><coordinates>-97.3503606,32.8551154</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Moody AFB</value></Data></ExtendedData>
   <Point><coordinates>-113.5472088,37.0338032</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Submarine Base Kings Bay</value></Data></ExtendedData>
   <Point><coordinates>-97.6389292,38.7858017</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Submarine Base Kings Bay</value></Data></ExtendedData>
   <Point><coordinates>-97.6552095,38.7727715</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nas Whiting Field Milton</value></Data></ExtendedData>
   <Point><coordinates>-85.8110331,39.5789546</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Grangeville</value></Data></ExtendedData>
   <Point><coordinates>-111.3337054,32.522976</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nas Whiting Field Milton</value></Data></ExtendedData>
   <Point><coordinates>-96.6752887,43.5891716</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nas Whiting Field Milton</value></Data></ExtendedData>
   <Point><coordinates>-89.72363,38.1601206</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Aviation Training Ctr</value></Data></ExtendedData>
   <Point><coordinates>-75.5558169,40.1899612</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nas Whiting Field Milton</value></Data></ExtendedData>
   <Point><coordinates>-89.6708561,39.8233506</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Whiting Pines Off Base Military Hsng</value></Data></ExtendedData>
   <Point><coordinates>-94.1774915,45.5648656</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Outlying Landing Field Spencer</value></Data></ExtendedData>
   <Point><coordinates>-92.0689358,38.5519495</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Outlying Landing Field Santa Rosa</value></Data></ExtendedData>
   <Point><coordinates>-88.6613572,35.8888095</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Eglin AFB</value></Data></ExtendedData>
   <Point><coordinates>-88.7052892,35.815946</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Outlying Landing Field Silverhill</value></Data></ExtendedData>
   <Point><coordinates>-88.7316376,35.8175726</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Woolmarket (de Soto)</value></Data></ExtendedData>
   <Point><coordinates>-88.7524313,35.8202678</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Outlying Landing Field Summerdale</value></Data></ExtendedData>
   <Point><coordinates>-86.5033756,36.0177288</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Outlying Landing Field Choctaw</value></Data></ExtendedData>
   <Point><coordinates>-103.3022533,44.0739637</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Jacksonville International Arprt</value></Data></ExtendedData>
   <Point><coordinates>-72.4513088,43.0859177</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Pensacola (Outlying Field Saufley)</value></Data></ExtendedData>
   <Point><coordinates>-78.972727,43.2374547</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Hurlburt Fld</value></Data></ExtendedData>
   <Point><coordinates>-78.950055,43.1132173</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Outlying Landing Field Holley</value></Data></ExtendedData>
   <Point><coordinates>144.7231765,13.4658155</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Gulfport-Biloxi Regional Airport Air National Guard</value></Data></ExtendedData>
   <Point><coordinates>-76.9366348,38.84887</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Gulfport Avcrad</value></Data></ExtendedData>
   <Point><coordinates>-76.2987812,36.8139479</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Gulfport-Biloxi Regional Airport Air National Guard</value></Data></ExtendedData>
   <Point><coordinates>-81.0786126,33.6024939</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Gulfport-Biloxi Regional Airport Air National Guard</value></Data></ExtendedData>
   <Point><coordinates>144.8594257,13.6259095</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Keesler AFB</value></Data></ExtendedData>
   <Point><coordinates>-76.6759181,39.0564134</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Gulfport-Biloxi Regional Airport Air National Guard</value></Data></ExtendedData>
   <Point><coordinates>-76.4840506,38.9819726</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>4th Mardiv Jacksonville Maint</value></Data></ExtendedData>
   <Point><coordinates>-75.1784998,39.8917143</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Pensacola (Corry Station)</value></Data></ExtendedData>
   <Point><coordinates>-90.1410082,35.0881693</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Gulfport-Biloxi Regional Airport Air National Guard</value></Data></ExtendedData>
   <Point><coordinates>-72.0035167,41.2558961</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Support Facility Blount Island</value></Data></ExtendedData>
   <Point><coordinates>-95.9084531,41.1191691</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Flc Fuel Depot Heckscher</value></Data></ExtendedData>
   <Point><coordinates>-82.943887,39.8126016</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Gulfport-Biloxi Regional Airport Air National Guard</value></Data></ExtendedData>
   <Point><coordinates>-76.3493772,34.8949281</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Outlying Field Barin</value></Data></ExtendedData>
   <Point><coordinates>-116.1386791,43.2280216</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Pensacola (Outlying Field Bronson)</value></Data></ExtendedData>
   <Point><coordinates>144.692222,13.3594758</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Station Mayport</value></Data></ExtendedData>
   <Point><coordinates>144.6863275,13.3903031</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Construction Battalion Center Gulfport</value></Data></ExtendedData>
   <Point><coordinates>-80.6067736,28.2284051</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Armed Forces Reserve Ctr</value></Data></ExtendedData>
   <Point><coordinates>-157.974076,21.3813973</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Jacksonville (Outlying Field Whitehouse)</value></Data></ExtendedData>
   <Point><coordinates>-70.8185604,43.0890638</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Pensacola</value></Data></ExtendedData>
   <Point><coordinates>-104.6964069,38.8230116</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Outlying Landing Field Wolf</value></Data></ExtendedData>
   <Point><coordinates>-104.6917511,38.7772709</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Villere</value></Data></ExtendedData>
   <Point><coordinates>-74.5444457,40.954361</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Mabry</value></Data></ExtendedData>
   <Point><coordinates>-122.4977706,37.4991058</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Swift</value></Data></ExtendedData>
   <Point><coordinates>-92.0859119,34.3258576</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Jacksonville</value></Data></ExtendedData>
   <Point><coordinates>-81.715415,29.1142622</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Louisiana National Guard Gillis Long Ctr</value></Data></ExtendedData>
   <Point><coordinates>-80.2102467,40.4932118</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Support Activity Panama City</value></Data></ExtendedData>
   <Point><coordinates>-80.2144867,40.4805209</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Panama City</value></Data></ExtendedData>
   <Point><coordinates>-155.6264297,19.7147135</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Tyndall AFB</value></Data></ExtendedData>
   <Point><coordinates>-76.4583939,35.0106002</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Jackson Barracks</value></Data></ExtendedData>
   <Point><coordinates>-79.0135981,35.1730509</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station New Orleans</value></Data></ExtendedData>
   <Point><coordinates>-122.5960349,45.5788198</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Jackson Barracks</value></Data></ExtendedData>
   <Point><coordinates>-70.7343226,43.0800979</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Jackson Barracks</value></Data></ExtendedData>
   <Point><coordinates>-70.7257724,43.0916547</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Support Activity New Orleans (West Bank)</value></Data></ExtendedData>
   <Point><coordinates>-121.9122745,36.603127</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Canyon Lake Recreation Annex</value></Data></ExtendedData>
   <Point><coordinates>-104.3296699,38.3125995</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Canyon Lake Recreation Annex</value></Data></ExtendedData>
   <Point><coordinates>-155.7198484,19.9692759</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Joint Reserve Base New Orleans</value></Data></ExtendedData>
   <Point><coordinates>-71.4185152,41.5968835</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp Bullis</value></Data></ExtendedData>
   <Point><coordinates>-80.5422937,37.1873802</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cape San Blas Tracking Annex D-3</value></Data></ExtendedData>
   <Point><coordinates>-67.0991704,18.5094646</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ellington Fld</value></Data></ExtendedData>
   <Point><coordinates>-98.2794351,29.5304398</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Seguin Air Force Auxiliary Fld</value></Data></ExtendedData>
   <Point><coordinates>-157.9101853,21.3676042</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Randolph AFB</value></Data></ExtendedData>
   <Point><coordinates>-94.3549839,33.4339769</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Sam Houston</value></Data></ExtendedData>
   <Point><coordinates>-86.6572555,34.6328321</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Lackland AFB</value></Data></ExtendedData>
   <Point><coordinates>-119.7753017,39.5001438</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Kelly AFB (Jbsa-Port Annex)</value></Data></ExtendedData>
   <Point><coordinates>-120.9194397,37.7168418</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Kelly Field Annex</value></Data></ExtendedData>
   <Point><coordinates>-83.5815412,32.6175269</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Kelly AFB (Jbsa-Port Annex)</value></Data></ExtendedData>
   <Point><coordinates>-90.5413482,41.5172021</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Lackland Training Annex (Jbsa Medina Annex)</value></Data></ExtendedData>
   <Point><coordinates>-75.4095834,43.2214988</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Kelly AFB (Jbsa-Port Annex)</value></Data></ExtendedData>
   <Point><coordinates>-94.9019583,39.7665727</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Laughlin AFB</value></Data></ExtendedData>
   <Point><coordinates>-94.9099358,39.7739417</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Brooks AFB</value></Data></ExtendedData>
   <Point><coordinates>-76.3134307,36.7892031</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Galveston</value></Data></ExtendedData>
   <Point><coordinates>-121.3922934,37.7159118</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Grand Isle</value></Data></ExtendedData>
   <Point><coordinates>-119.7456355,34.0138809</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Pinecastle Ew Range</value></Data></ExtendedData>
   <Point><coordinates>-81.1897384,32.1263297</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Ponce de Leon</value></Data></ExtendedData>
   <Point><coordinates>-115.5636833,42.7404267</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nalf Goliad</value></Data></ExtendedData>
   <Point><coordinates>-158.0824984,21.4993768</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Support Activity Orlando</value></Data></ExtendedData>
   <Point><coordinates>-104.5161692,38.8024287</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cape Canaveral Air Force Sta</value></Data></ExtendedData>
   <Point><coordinates>-89.8536517,38.5414239</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Cape Canaveral</value></Data></ExtendedData>
   <Point><coordinates>-75.6659531,41.4041516</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Patrick AFB</value></Data></ExtendedData>
   <Point><coordinates>-118.0644516,33.7503302</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Dixie Target Range</value></Data></ExtendedData>
   <Point><coordinates>-117.2828599,33.3596101</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Malabar Transmitter Annex</value></Data></ExtendedData>
   <Point><coordinates>-97.9057772,29.5648215</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Alf Orange</value></Data></ExtendedData>
   <Point><coordinates>-82.835568,42.6122676</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Macdill AFB</value></Data></ExtendedData>
   <Point><coordinates>-82.8165591,42.6132833</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Air Station Clearwater</value></Data></ExtendedData>
   <Point><coordinates>-77.9625752,35.3479164</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Corpus Christi (Alf Cabaniss)</value></Data></ExtendedData>
   <Point><coordinates>-115.7489181,32.9486364</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Corpus Christi</value></Data></ExtendedData>
   <Point><coordinates>-80.4704829,33.9745438</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Arbuckle Airfield</value></Data></ExtendedData>
   <Point><coordinates>-98.5003832,33.9842679</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Avon Park Air Force Range</value></Data></ExtendedData>
   <Point><coordinates>-120.1195874,40.2235846</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Corpus Christi (Alf Waldron)</value></Data></ExtendedData>
   <Point><coordinates>-117.128322,32.5970173</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Kingsville</value></Data></ExtendedData>
   <Point><coordinates>-96.4008558,42.4021265</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Jupiter Inlet</value></Data></ExtendedData>
   <Point><coordinates>-112.0116801,33.4258761</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Jonathan Dickinson Tracking Annex</value></Data></ExtendedData>
   <Point><coordinates>-92.3870611,31.3775474</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Lake Worth Inlet</value></Data></ExtendedData>
   <Point><coordinates>-71.3633101,42.2894683</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Raymondville</value></Data></ExtendedData>
   <Point><coordinates>-76.4711172,38.3363367</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Fort Myers</value></Data></ExtendedData>
   <Point><coordinates>-83.8370397,39.8495395</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Integrated Support Command</value></Data></ExtendedData>
   <Point><coordinates>-90.2083642,38.5912304</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Homestead Air Reserve Base</value></Data></ExtendedData>
   <Point><coordinates>-74.0842911,41.5014588</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Air Station Key West</value></Data></ExtendedData>
   <Point><coordinates>-74.0945523,41.4924644</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nas Key West Fleming Key Magazine</value></Data></ExtendedData>
   <Point><coordinates>-72.2716641,41.3654109</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nas Key West Dredgers Key-Sigsbee</value></Data></ExtendedData>
   <Point><coordinates>-72.2836503,41.3516867</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Hospital Key West</value></Data></ExtendedData>
   <Point><coordinates>-77.2133066,38.5492736</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nas Key West Trumbo Point Annex</value></Data></ExtendedData>
   <Point><coordinates>144.8078867,13.5410616</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nas Key West Peary Court</value></Data></ExtendedData>
   <Point><coordinates>-95.2930325,36.2955638</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nas Key West Truman Annex</value></Data></ExtendedData>
   <Point><coordinates>-97.3927365,35.4192634</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Kamokala Ridge</value></Data></ExtendedData>
   <Point><coordinates>-97.3970234,35.3943692</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Kahuka Training Area</value></Data></ExtendedData>
   <Point><coordinates>-97.3603048,35.4037038</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Helemano Mil Res</value></Data></ExtendedData>
   <Point><coordinates>-75.4299103,41.1976814</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Makua Mil Res</value></Data></ExtendedData>
   <Point><coordinates>-83.7919913,41.5864543</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Schofield Barracks Mil Res</value></Data></ExtendedData>
   <Point><coordinates>-117.1995413,38.1413491</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>United States Army Field Station Kunia</value></Data></ExtendedData>
   <Point><coordinates>-116.7758633,37.8072787</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Wheeler Army Airfield</value></Data></ExtendedData>
   <Point><coordinates>-112.4150336,40.5268383</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Upper Kipapa Ammunition Storage Site</value></Data></ExtendedData>
   <Point><coordinates>-72.8965457,44.4717281</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Waianae-Kai Mil Res</value></Data></ExtendedData>
   <Point><coordinates>-121.9426531,38.2648584</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Marine Corps Base Hawaii Kaneohe</value></Data></ExtendedData>
   <Point><coordinates>-157.8896492,21.3620086</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Reservation Lualualei</value></Data></ExtendedData>
   <Point><coordinates>-89.3359052,43.1301765</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Hickam Petroleum Products Storage Annex</value></Data></ExtendedData>
   <Point><coordinates>-110.9492283,32.1314614</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Waikele</value></Data></ExtendedData>
   <Point><coordinates>-95.8746617,36.2170607</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Cp H M Smith</value></Data></ExtendedData>
   <Point><coordinates>144.811293,13.5094855</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>McB Hawaii Pearl City Annex</value></Data></ExtendedData>
   <Point><coordinates>144.8093425,13.5098476</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Pearl City</value></Data></ExtendedData>
   <Point><coordinates>-93.1605429,45.0943198</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Waipahu-Naval Station Pearl Harbor</value></Data></ExtendedData>
   <Point><coordinates>-85.5486378,30.0445485</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Red Hill Base Hsng</value></Data></ExtendedData>
   <Point><coordinates>-119.437636,45.8425886</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Bellows Air Force Sta</value></Data></ExtendedData>
   <Point><coordinates>-104.3011075,38.7585884</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Tripler Army Medical Ctr</value></Data></ExtendedData>
   <Point><coordinates>-158.0542148,21.4739913</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Aliamanu Mil Res</value></Data></ExtendedData>
   <Point><coordinates>-84.1343965,40.6999461</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Shafter</value></Data></ExtendedData>
   <Point><coordinates>-76.4774958,37.2173268</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ewa</value></Data></ExtendedData>
   <Point><coordinates>-77.0669371,38.9215024</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Hickam AFB</value></Data></ExtendedData>
   <Point><coordinates>-157.998336,21.4497536</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Air Station Barbers Pt</value></Data></ExtendedData>
   <Point><coordinates>-76.4944313,38.9886201</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Kalaeloa</value></Data></ExtendedData>
   <Point><coordinates>-111.9566179,40.7894701</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>McB Hawaii Puuloa Training Faclty</value></Data></ExtendedData>
   <Point><coordinates>-113.5752023,40.5013969</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station Honolulu</value></Data></ExtendedData>
   <Point><coordinates>-113.2216273,41.0233504</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft de Russy</value></Data></ExtendedData>
   <Point><coordinates>-97.9114812,36.34185</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Fort Ruger</value></Data></ExtendedData>
   <Point><coordinates>-120.5581705,34.7133484</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ng Fort Ruger</value></Data></ExtendedData>
   <Point><coordinates>-75.6153835,43.1471883</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Pupukea Paalaa Uka Mil Road</value></Data></ExtendedData>
   <Point><coordinates>-90.2546097,43.9362278</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Pohakuloa Training Area</value></Data></ExtendedData>
   <Point><coordinates>-85.059179,34.9311842</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Keaukaha Mil Res</value></Data></ExtendedData>
   <Point><coordinates>-158.190999,21.4469221</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Kilauea Military Cp</value></Data></ExtendedData>
   <Point><coordinates>-158.0199971,21.4110243</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ramey Af Solar Observatory Research Site</value></Data></ExtendedData>
   <Point><coordinates>-157.9643543,21.3810619</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Air Station Borinquen</value></Data></ExtendedData>
   <Point><coordinates>-77.0549624,39.006422</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Isabela N00207 Ab</value></Data></ExtendedData>
   <Point><coordinates>-90.279978,36.8914891</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Coast Guard Station San Juan</value></Data></ExtendedData>
   <Point><coordinates>-73.7081452,42.7198584</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Maneuver Training Area Camp Santiago</value></Data></ExtendedData>
   <Point><coordinates>-76.4278434,38.1459014</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ft Allen</value></Data></ExtendedData>
   <Point><coordinates>-87.2027327,37.2759431</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Northwest Guam AFB</value></Data></ExtendedData>
   <Point><coordinates>-74.0332053,41.3575128</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Andersen AFB</value></Data></ExtendedData>
   <Point><coordinates>-72.5365327,42.1990453</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Andersen Petrol Product Storage Annex 1</value></Data></ExtendedData>
   <Point><coordinates>-158.0346119,21.4731478</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Computer and Telecommunications Station Finegayan</value></Data></ExtendedData>
   <Point><coordinates>-106.4319165,33.1628037</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Tanguisson Pt</value></Data></ExtendedData>
   <Point><coordinates>-106.674153,32.518018</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Andersen Air Force Sta</value></Data></ExtendedData>
   <Point><coordinates>-106.5553818,33.8471629</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Navy Base Guam Harmon</value></Data></ExtendedData>
   <Point><coordinates>-106.4274148,33.9017247</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Andersen Petrol Product Storage Annex 2</value></Data></ExtendedData>
   <Point><coordinates>-106.2711572,33.9003476</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Tumon</value></Data></ExtendedData>
   <Point><coordinates>-93.5585698,38.7302079</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Tumon</value></Data></ExtendedData>
   <Point><coordinates>-87.0609093,30.6261473</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Andersen Administration Annex</value></Data></ExtendedData>
   <Point><coordinates>-97.6117337,35.4077197</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Computer and Telecommunications Station Barrigada</value></Data></ExtendedData>
   <Point><coordinates>-81.4421202,39.3530515</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Guam Barrigada Complx</value></Data></ExtendedData>
   <Point><coordinates>-88.9717367,30.5415897</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Hospital Guam</value></Data></ExtendedData>
   <Point><coordinates>-84.0507568,39.8172472</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Nimitz Hill</value></Data></ExtendedData>
   <Point><coordinates>-120.1656816,46.7444554</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Andersen Communications Annex 2</value></Data></ExtendedData>
   <Point><coordinates>-81.5892426,38.3734687</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Reserve Sasa Valley</value></Data></ExtendedData>
   <Point><coordinates>-76.4862714,37.216423</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Reserve Tenjo Vis</value></Data></ExtendedData>
   <Point><coordinates>-80.675498,41.2681874</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Base Guam</value></Data></ExtendedData>
   <Point><coordinates>-80.685904,41.2654817</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Naval Base Guam Apra Heights</value></Data></ExtendedData>
   <Point><coordinates>-147.4195996,64.5811435</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ordnance Annex Guam</value></Data></ExtendedData>
   <Point><coordinates>-146.8901855,64.7685829</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Ordnance Annex Guam</value></Data></ExtendedData>
   <Point><coordinates>-114.4050993,32.7013023</coordinates></Point></Placemark>
 <Placemark>
-<ExtendedData></ExtendedData>
+<ExtendedData>
+  <Data name="NAME"><value>Dandan</value></Data></ExtendedData>
   <Point><coordinates>-114.1679172,33.0862924</coordinates></Point></Placemark></Document></kml>
